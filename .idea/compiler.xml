@@ -7,6 +7,7 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="InterviewApplication2" />
+        <module name="SecondQuestion" />
       </profile>
     </annotationProcessing>
   </component>
